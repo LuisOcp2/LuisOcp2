@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes. Me gusta enfren
 - Actualmente trabajando en **GlobalTennis** (Java Swing), un **sistema de gestión para restaurantes** y la herramienta **PAGASUS-PRO**.
 - Explorando y profundizando mis conocimientos en **Ciberseguridad** y en el desarrollo de APIs para facturación electrónica.
 - Mira mis proyectos completos en mi portafolio: [lmog.vercel.app](https://lmog.vercel.app/)
-- ⚡ Dato curioso: Cuando no estoy programando, me encontrarás personalizando motos o en un buen match de Warzone o Call of Duty: Mobile.
+- Dato curioso: Cuando no estoy programando, me encontrarás personalizando motos o en un buen match de Warzone o Call of Duty: Mobile.
 
 ---
 
