@@ -3,14 +3,14 @@
 
 Soy un desarrollador apasionado por crear soluciones eficientes. Me gusta enfrentar nuevos retos, desde el diseño de interfaces de escritorio hasta la estructuración de bases de datos y la exploración de vulnerabilidades y seguridad en sistemas.
 
-- 🔭 Actualmente trabajando en **GlobalTennis** (Java Swing), un **sistema de gestión para restaurantes** y la herramienta **PAGASUS-PRO**.
-- 🌱 Explorando y profundizando mis conocimientos en **Ciberseguridad** y en el desarrollo de APIs para facturación electrónica.
-- 💻 Mira mis proyectos completos en mi portafolio: [lmog.vercel.app](https://lmog.vercel.app/)
+- Actualmente trabajando en **GlobalTennis** (Java Swing), un **sistema de gestión para restaurantes** y la herramienta **PAGASUS-PRO**.
+- Explorando y profundizando mis conocimientos en **Ciberseguridad** y en el desarrollo de APIs para facturación electrónica.
+- Mira mis proyectos completos en mi portafolio: [lmog.vercel.app](https://lmog.vercel.app/)
 - ⚡ Dato curioso: Cuando no estoy programando, me encontrarás personalizando motos o en un buen match de Warzone o Call of Duty: Mobile.
 
 ---
 
-### 🛠️ Lenguajes, Herramientas y Metodologías
+### Lenguajes, Herramientas y Metodologías
 
 **Frontend & Móvil**
 <div align="left">
@@ -36,7 +36,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes. Me gusta enfren
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 Aquí hay un resumen dinámico de mi actividad y los lenguajes que más utilizo en mis repositorios:
 
@@ -47,6 +47,6 @@ Aquí hay un resumen dinámico de mi actividad y los lenguajes que más utilizo 
 
 ---
 
-### 📫 Conecta conmigo
+### Conecta conmigo
 
-- **🌐 Portafolio Web:** [lmog.vercel.app](https://lmog.vercel.app/)
+- **Portafolio Web:** [lmog.vercel.app](https://lmog.vercel.app/)
