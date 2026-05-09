@@ -153,14 +153,11 @@ const luis = {
 
 ---
 
-## Estadísticas de GitHub
+## Actividad en GitHub
 
-<div align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=LuisOcp2&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed&icon_color=3382ed&count_private=true" alt="Estadísticas de LuisOcp2" />
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOcp2&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed&langs_count=8" alt="Lenguajes más usados" />
-</div>
-
-<br />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisOcp2&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20reciente" alt="Actividad reciente de LuisOcp2" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisOcp2&theme=tokyonight&hide_border=true&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="Racha de GitHub" />
@@ -171,6 +168,19 @@ const luis = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuisOcp2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Trofeos de GitHub" />
 </div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frontend</strong><br />Next.js · React · TypeScript · Tailwind</td>
+    <td align="center"><strong>Backend</strong><br />Node.js · FastAPI · Python · Java</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Datos</strong><br />PostgreSQL · MySQL · Oracle · Prisma</td>
+    <td align="center"><strong>Producto</strong><br />E-commerce · IA · Automatización · SaaS</td>
+  </tr>
+</table>
 
 ---
 
